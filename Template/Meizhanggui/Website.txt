@@ -1,0 +1,11 @@
+https://font.meizhanggui.com/
+如果投稿失敗，你可以到這個網站掃描
+If the submission fails, you can go to this website to scan
+
+https://fontforge.org/en-US/
+希望你有技術，用FontForge加工你的字體
+I hope you have the skills to process your fonts with FontForge
+
+https://speckyboy.com/tools-create-your-own-custom-font/
+其他字體製作工具可以參考，Windows推薦FontCreator，MAC推薦Glyphr
+Other font creation tools can refer to, Windows recommends FontCreator, MAC recommends Glyphr
