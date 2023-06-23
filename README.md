@@ -113,3 +113,16 @@ https://www.calligraphr.com/
 
 中文手写字体制作
 https://font.meizhanggui.com/
+
+# 字體製作軟體 Font Making Software
+https://fontforge.org/en-US/
+
+https://www.high-logic.com/font-editor/fontcreator
+
+https://glyphsapp.com/buy
+
+https://2ttf.com/
+
+https://www.fontself.com/
+
+https://www.fontlab.com/o
