@@ -7,5 +7,6 @@ https://fontforge.org/en-US/
 I hope you have the skills to process your fonts with FontForge
 
 https://speckyboy.com/tools-create-your-own-custom-font/
-其他字體製作工具可以參考，Windows推薦FontCreator，MAC推薦Glyphr
-Other font creation tools can refer to, Windows recommends FontCreator, MAC recommends Glyphr
+https://illustratorhow.com/best-font-design-tools/
+其他字體製作工具可以參考，Windows推薦FontCreator，MAC推薦Glyphs
+Other font creation tools can refer to, Windows recommends FontCreator, MAC recommends Glyphs
