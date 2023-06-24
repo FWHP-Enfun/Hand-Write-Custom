@@ -1,3 +1,5 @@
+<div align="center">
+
 # 花樂手寫定製 FWHP Hand Write Custom
 模板是別人的，但是我用自己技術做字體，非機器轉，而是人工置入放成字體
 
@@ -18,6 +20,7 @@ There are very few open source traditional Chinese fonts, and so are self-made t
 盡量是有耐心的成年人，要寫4808以上的字，連常見的符號和英文數字也要
 
 Try to be a patient adult, write more than 4808 characters, even common symbols and English numbers
+
 # SIL 開源字體授權規定 SIL Open Source Font Licensing Regulations
 
 * 任何人可以免費使用此字型，包含商用。無須告知原作者。
@@ -42,9 +45,13 @@ According to the regulations of [SIL OFL](https://scripts.sil.org/OFL), it is fo
 
 At present, it is estimated that the revision of Hanyuan Maokai is open for submission
 
-最低條件要寫4808以上的台灣的常用字、常見的符號、英文數字
+最低條件要寫4808以上的台灣的常用字、注音符號、常見的符號、英文數字
 
-The minimum requirement is to write more than 4808 commonly used words, common symbols, and English numbers in Taiwan
+The minimum requirement is to write more than 4808 commonly used characters in Taiwan, Bopomofo, common symbols, and English numbers
+
+一定要用黑筆寫字，不然很難處理
+
+Be sure to write with a black pen, otherwise it will be difficult to handle
 
 你要註冊Github帳號，投稿要寫內容，內容是你的字體介紹、寫字工具，要提供社交網站，後面可以改
 
@@ -77,6 +84,40 @@ If you are over 65 years old, it is recommended that the agent agree, and it is 
 我不歡迎拿其他網站的字圖片、抄襲、直接拿商業字體，連免費商用的字體不可以
 
 I do not welcome to use words and pictures from other websites, plagiarize, or directly use commercial fonts, even free commercial fonts are not allowed
+
+# 字體審核 Font Review
+
+我通常是看完整性為主，美觀是其次
+
+I usually look at the integrity first, and the beauty is second
+
+審核時間，我盡量找字體專家和工具鑑定，看是不是自創
+
+During the review time, I try to find font experts and tools to identify whether it is self-made
+
+通常成功原因是我有足夠時間做
+
+Usually the reason for success is that I have enough time to do
+
+失敗原因是很多種，我沒時間做、投稿作品完整性不高、沒理由的錯字、很多簡寫、懷疑使用侵權、很多字看不懂⋯⋯
+
+There are many reasons for the failure, I don’t have time to do it, the integrity of the submitted work is not high, typos for no reason, many abbreviations, suspected use infringement, many words I can’t understand...
+
+我不看寫字很醜的人，我喜歡追求夢想的人
+
+I don't look at people with ugly handwriting, I like people who pursue their dreams
+
+https://github.com/FWHP-Enfun/FWHP-Font/blob/main/Review.md
+
+你可以到這裡看審核結果
+
+You can go here to see the audit results
+
+https://github.com/FWHP-Enfun/FWHP-Font/tree/main/Serve%20Progress
+
+有時間，你可以看看
+
+If you have time, you can take a look
 
 # 後續處理 Subsequent Processing
 
