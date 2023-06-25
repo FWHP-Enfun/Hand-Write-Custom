@@ -95,13 +95,17 @@ I usually look at the integrity first, and the beauty is second
 
 During the review time, I try to find font experts and tools to identify whether it is self-made
 
-通常成功原因是我有足夠時間做
+通常成功原因是我有足夠時間做，字體很有風格
 
-Usually the reason for success is that I have enough time to do
+Usually the reason for success is that I have enough time to do it, the font is very stylish
 
 失敗原因是很多種，我沒時間做、投稿作品完整性不高、沒理由的錯字、很多簡寫、懷疑使用侵權、很多字看不懂⋯⋯
 
 There are many reasons for the failure, I don’t have time to do it, the integrity of the submitted work is not high, typos for no reason, many abbreviations, suspected use infringement, many words I can’t understand...
+
+我不會因為私人問題教任何人做字體，建議你自己摸索做字體
+
+I will not teach anyone to make fonts because of personal problems, I suggest you to explore and make fonts by yourself
 
 我不看寫字很醜的人，我喜歡追求夢想的人
 
