@@ -1,13 +1,16 @@
 <div align="center">
 
 # 花樂手寫定製 FWHP Hand Write Custom
+
+![](https://github.com/FWHP-Enfun/FWHP-Font/blob/main/FWHP%20Font.png)
+
 模板是別人的，但是我用自己技術做字體，非機器轉，而是人工置入放成字體
 
 The template is someone else's, but I use my own technology to make fonts, not machine-transferred, but manually placed into fonts
 
-跟一些網站差別是，我會人工調整、人工合併字體
+跟一些網站差別是，我會人工調整、人工合併字體，修改一些字體訊息
 
-The difference from some websites is that I will manually adjust and manually merge fonts
+The difference from some websites is that I will manually adjust, manually merge fonts, and modify some font information
 
 費用是有條件的免費，版權屬於花樂（我）和委託者，一定要SIL Open Font License 1.1授權
 
@@ -103,6 +106,10 @@ Usually the reason for success is that I have enough time to do it, the font is 
 
 There are many reasons for the failure, I don’t have time to do it, the integrity of the submitted work is not high, typos for no reason, many abbreviations, suspected use infringement, many words I can’t understand...
 
+盡量別常用中國大陸寫法，我會退掉投稿，我有修改過簡體字體，加上我很喜歡綠色，日本寫法、舊寫法還算可以，我很希望有台灣味道的繁體字體
+
+Try not to use the Chinese mainland writing method, I will return the submission, I have modified the simplified font, and I like green very much, the Japanese writing method, the old writing method is not bad, I really hope that the traditional Chinese font has a Taiwanese taste
+
 我不會因為私人問題教任何人做字體，建議你自己摸索做字體
 
 I will not teach anyone to make fonts because of personal problems, I suggest you to explore and make fonts by yourself
@@ -179,13 +186,17 @@ Glyphs
 
 https://glyphsapp.com/buy
 
-iFontMaker（不建議買Windows，功能太少 It is not recommended to buy Windows, too few functions）
+iFontMaker
 
 https://2ttf.com/
 
-Fontself（目前只是Adobe插件，ipad版是字體製作APP At present, it is only an Adobe plug-in, and the ipad version is a font making APP）
+不建議買Windows，功能太少 It is not recommended to buy Windows, too few functions
+
+Fontself
 
 https://www.fontself.com/
+
+目前只是Adobe插件，ipad版是字體製作APP At present, it is only an Adobe plug-in, and the ipad version is a font making APP
 
 FontLab
 
@@ -197,4 +208,7 @@ FontStruct
 https://fontstruct.com/
 
 Glyphr Studio
+
 https://www.glyphrstudio.com/
+
+![](https://github.com/FWHP-Enfun/FWHP-Font/blob/main/FWHP%20Font.png)
