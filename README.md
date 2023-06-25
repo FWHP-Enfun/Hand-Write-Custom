@@ -145,25 +145,52 @@ If there is still no time to update for a year, see if I have the ability to upd
 
 You will know why you like the SIL font protocol. It is painful to see missing characters in your favorite characters, but it is very happy to fill them up.
 
-# 模板網站 Template Site
+# 手寫製作字體網站 Handwriting Maker Font Website
 守寫字 Writes
+
 https://www.writes.com.tw/old/splitMissionIndex.jsp
 
-CALLIGRAPHR
+Calligraphr (免費只能75字元 Free only 75 characters)
+
 https://www.calligraphr.com/
 
 中文手写字体制作
+
 https://font.meizhanggui.com/
 
+Your Font
+
+http://www.yourfonts.com/
+
 # 字體製作軟體 Font Making Software
+FontForge（免費 Free）
+
 https://fontforge.org/en-US/
+
+FontCreator
 
 https://www.high-logic.com/font-editor/fontcreator
 
+Glyphs
+
 https://glyphsapp.com/buy
+
+iFontMaker（不建議買Windows，功能太少 It is not recommended to buy Windows, too few functions）
 
 https://2ttf.com/
 
+Fontself（目前只是Adobe插件，ipad版是字體製作APP At present, it is only an Adobe plug-in, and the ipad version is a font making APP）
+
 https://www.fontself.com/
 
-https://www.fontlab.com/o
+FontLab
+
+https://www.fontlab.com/
+
+# 字體製作網站 Font Making Website
+FontStruct
+
+https://fontstruct.com/
+
+Glyphr Studio
+https://www.glyphrstudio.com/
