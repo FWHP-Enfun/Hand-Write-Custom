@@ -13,8 +13,8 @@ How to use it, download the template, it is a compressed file, copy characters.t
 注意：檔案是使用思源黑體和全字庫正楷體，別管字體缺失，可以改成自己想要的字體
 Note: The file is in Siyuan HeiTi and full-character regular script. Regardless of the lack of fonts, you can change them to the fonts you want
 
-Adobe InDesign比較方便，直接把characters.txt到這個文字框就可以，可能要自己調整
-Adobe InDesign is more convenient, you can directly put characters.txt into this text box, you may have to adjust it yourself
+Adobe InDesign、Affinity Publisher、Scribus比較方便，直接把characters.txt到這個文字框就可以，可能要自己調整
+Adobe InDesign, Affinity Publisher, and Scribus are more convenient. You can directly put characters.txt into this text box, and you may need to adjust it yourself
 
 PDF，如果可以編輯，選127手寫表格，不能編輯，選空127手寫表格，這個沒字PDF，用其他軟體開啟很方便，需要一些技巧
 PDF, if it can be edited, select 127 handwritten form, can not be edited, select blank 127 handwritten form, this PDF has no words, it is very convenient to open with other software, some skills are required
