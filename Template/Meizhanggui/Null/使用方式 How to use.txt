@@ -16,6 +16,10 @@ Note: The file is in Siyuan HeiTi and full-character regular script. Regardless 
 Adobe InDesign、Affinity Publisher、Scribus比較方便，直接把characters.txt到這個文字框就可以，可能要自己調整
 Adobe InDesign, Affinity Publisher, and Scribus are more convenient. You can directly put characters.txt into this text box, and you may need to adjust it yourself
 
+https://www.canva.com/design/DAFm7iC249Q/qAMWURZzCxvTg8SCmccAUQ/edit?utm_content=DAFm7iC249Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Canva，把裡面的大字修改，要符合原來模板字的位置，否則字會在其他字碼，等於錯字，處裡非常麻煩
+Canva, modify the large characters inside to match the position of the original template characters, otherwise the characters will be in other characters, which is equal to a typo, which is very troublesome
+
 PDF，如果可以編輯，選127手寫表格，不能編輯，選空127手寫表格，這個沒字PDF，用其他軟體開啟很方便，需要一些技巧
 PDF, if it can be edited, select 127 handwritten form, can not be edited, select blank 127 handwritten form, this PDF has no words, it is very convenient to open with other software, some skills are required
 
