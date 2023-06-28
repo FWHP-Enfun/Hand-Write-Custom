@@ -52,6 +52,10 @@ At present, it is estimated that the revision of Hanyuan Maokai is open for subm
 
 The minimum requirement is 80% of the character files in https://github.com/FWHP-Enfun/Hand-Write-Custom/tree/main/Suggested%20Format, CJK radicals must be written, and some repeated letters can not be written , you don’t need to write according to the template
 
+Extra Target是個次要目標，可以不用寫
+
+Extra Target is a secondary target, you don't need to write it
+
 一定要用黑筆寫字，不然很難處理
 
 Be sure to write with a black pen, otherwise it will be difficult to handle
