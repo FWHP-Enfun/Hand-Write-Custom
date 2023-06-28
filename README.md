@@ -48,9 +48,9 @@ According to the regulations of [SIL OFL](https://scripts.sil.org/OFL), it is fo
 
 At present, it is estimated that the revision of Hanyuan Maokai is open for submission
 
-最低條件要寫4808以上的台灣的常用字、注音符號、常見的符號、英文數字
+最低條件是https://github.com/FWHP-Enfun/Hand-Write-Custom/tree/main/Suggested%20Format 的80％字元檔案，CJK部首一定要寫，有些重覆字母是可以不寫，可以不用照模板寫字
 
-The minimum requirement is to write more than 4808 commonly used characters in Taiwan, Bopomofo, common symbols, and English numbers
+The minimum requirement is 80% of the character files in https://github.com/FWHP-Enfun/Hand-Write-Custom/tree/main/Suggested%20Format, CJK radicals must be written, and some repeated letters can not be written , you don’t need to write according to the template
 
 一定要用黑筆寫字，不然很難處理
 
