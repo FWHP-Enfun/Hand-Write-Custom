@@ -29,7 +29,7 @@ The following websites can help you learn to make fonts
 # 手寫製作字體網站 Handwriting Maker Font Website
 守寫字 Writes
 
-https://www.writes.com.tw/old/splitMissionIndex.jsp
+https://www.writes.com.tw/
 
 Calligraphr (免費只能75字元 Free only 75 characters)
 
